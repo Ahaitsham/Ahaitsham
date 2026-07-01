@@ -123,7 +123,7 @@
   <img src="https://raw.githubusercontent.com/Ahaitsham/Ahaitsham/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-> 💡 *Note: the snake animation needs a one-time GitHub Actions setup on your profile repo — [see the guide here](https://github.com/Platane/snk) if it's not showing yet.*
+> 
 
 ---
 
